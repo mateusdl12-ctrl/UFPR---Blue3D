@@ -1,0 +1,20 @@
+========================================================
+              LINKS DE ACESSO - BLUS3D
+========================================================
+
+1. CLIENTE (Apenas Calculadora de Orcamento):
+   Link Curto com Nome : https://ulvis.net/blus3dorcamento
+   Link Direto Seguro  : https://realized-pat-pointing-powers.trycloudflare.com
+
+2. ADMINISTRADOR (Painel Completo Blus3D):
+   Link Curto com Nome : https://ulvis.net/blus3dadm
+   Link Direto Seguro  : https://elderly-boring-ladies-regardless.trycloudflare.com
+
+3. ACESSO LOCAL NO COMPUTADOR:
+   Cliente : http://localhost:8502
+   ADM     : http://localhost:8501
+
+========================================================
+* Resolvido erro de salvamento do Google Sheets.
+* Agora o orcamento registra diretamente no banco local e libera o WhatsApp!
+========================================================

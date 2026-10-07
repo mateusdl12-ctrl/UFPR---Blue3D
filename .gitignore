@@ -1,0 +1,9 @@
+impressao3d.db
+anexos_orcamento/
+config.json
+*.pyc
+__pycache__/
+.venv/
+clayto3d*.json
+*service_account*.json
+.streamlit/secrets.toml
