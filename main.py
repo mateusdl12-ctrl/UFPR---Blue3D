@@ -31,7 +31,7 @@ st.markdown("""<style>
     box-shadow: 0 0 24px #0088ff88;
 }
 /* Nome da empresa estilizado */
-.clayto-title {
+.blus3d-title {
     text-align: center;
     font-size: 2rem;
     font-weight: bold;

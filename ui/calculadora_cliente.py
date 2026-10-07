@@ -34,9 +34,9 @@ def enviar_pedido_google_sheets(dados):
                 creds_dict = dict(st.secrets["gcp_service_account"])
         except Exception:
             pass
-        if not creds_dict and _os.path.exists("clayto3d-3063b97a968d.json"):
+        if not creds_dict and _os.path.exists("service_account.json"):
             import json
-            with open("clayto3d-3063b97a968d.json", "r") as f:
+            with open("service_account.json", "r") as f:
                 creds_dict = json.load(f)
 
         if not creds_dict:
